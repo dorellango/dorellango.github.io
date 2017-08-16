@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640px" height="401px" viewBox="0 0 640 401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D" transform="translate(0.000000, 1.000000)">
+            <polygon id="Path" fill="#DC5959" points="80 0 0 0 0 400 80 400 220 400 300 320 80 320 80 80 300 80 220 0"></polygon>
+            <polygon id="Path-2" fill="#BA4949" points="220 80 300 80 300 320 220 320"></polygon>
+        </g>
+        <g id="O" transform="translate(340.000000, 1.000000)">
+            <polygon id="bottom" fill="#DC5959" points="80 400 220 400 300 320 80 320 0 320"></polygon>
+            <polygon id="top" fill="#DC5959" transform="translate(150.000000, 40.000000) rotate(-180.000000) translate(-150.000000, -40.000000) " points="80 80 220 80 300 1.42108547e-14 80 1.42108547e-14 0 1.42108547e-14"></polygon>
+            <polygon id="right" fill="#BA4949" points="220 80 300 80 300 320 220 320"></polygon>
+            <polygon id="left" fill="#BA4949" points="0 80 80 80 80 320 0 320"></polygon>
+        </g>
+    </g>
+</svg>
