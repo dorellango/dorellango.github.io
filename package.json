@@ -14,7 +14,6 @@
     "deploy": "push-dir --dir=dist --branch=master --cleanup"
   },
   "dependencies": {
-    "minireset.css": "0.0.3",
     "normalize.css": "^7.0.0",
     "nuxt": "^1.0.0-rc3"
   },
@@ -31,9 +30,7 @@
     "node-sass": "^4.5.3",
     "push-dir": "^0.4.1",
     "sass-loader": "^6.0.6",
-    "svg-inline-loader": "^0.8.0",
     "svg-sprite-loader": "^3.1.7",
-    "vue-svg-loader": "^0.1.2",
     "vue-template-compiler": "^2.4.2"
   }
 }
