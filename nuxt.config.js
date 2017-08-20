@@ -31,7 +31,7 @@ module.exports = {
 
       config.module.rules.push({
         test: /\.svg$/,
-        loader: 'svg-sprite-loader',
+        loader: 'vue-svg-loader',
         exclude: /(node_modules)/
       })
 

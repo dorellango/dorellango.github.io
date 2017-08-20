@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <div class="logo">
-      <svg class="icn"><use xlink:href="#logo"></use></svg>
+      <Logo class="icn"/>
     </div>
     <div class="bio">
       <h1>Hello!</h1>
@@ -12,15 +12,15 @@
       <h3>Let's Work!</h3>
       <ul>
         <li>
-            <svg class="icn"><use xlink:href="#envelope"></use></svg>
+            <Envelope class="icn"/>
             <a href="mailto:dev@dorellango.cl">dev@dorellango.cl</a>
         </li>
         <li>
-            <svg class="icn"><use xlink:href="#twitter"></use></svg>
+            <Twitter class="icn"/>
             <a href="http://twitter.com/dorellango">dorellango</a>
         </li>
         <li>
-            <svg class="icn"><use xlink:href="#phone"></use></svg>
+            <Phone class="icn"/>
             <span>+56949529064</span>
         </li>
       </ul>
@@ -30,13 +30,17 @@
 </template>
 
 <script>
-import '~/assets/svg/logo.svg'
-import '~/assets/svg/phone.svg'
-import '~/assets/svg/twitter.svg'
-import '~/assets/svg/envelope.svg'
+import Logo from '~/assets/svg/logo.svg'
+import Phone from '~/assets/svg/phone.svg'
+import Twitter from '~/assets/svg/twitter.svg'
+import Envelope from '~/assets/svg/envelope.svg'
 
 export default {
   components: {
+    Logo,
+    Phone,
+    Twitter,
+    Envelope
   }
 }
 </script>
