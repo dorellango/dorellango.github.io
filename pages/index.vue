@@ -9,7 +9,7 @@
       <p>I'm currently available for small & big projects. If you'd like to talk about your projects or an advice about product design, just shot me an email.</p>
     </div>
     <div class="contact">
-      <h3>Let's Work!</h3>
+      <h3>Let's DO it!</h3>
       <ul>
         <li>
             <Envelope class="icn"/>
